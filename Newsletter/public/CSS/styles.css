@@ -1,0 +1,49 @@
+body
+{
+  text-align: center;
+    background-color: black;
+    background-image:url("/images/1170776.jpg");
+    color:  #3498db;
+    background-position: 0 -300px;
+}
+.signup
+{
+  background-color: #191919;
+  margin:25% auto 5% auto;
+  opacity: 75%;
+  padding: 4%;
+  width: 20%;
+  border-radius: 15px;
+}
+.login_box
+{
+  border: 0;
+  margin: 20px;
+  width: 70%;
+  line-height: 2.5;
+  border-radius:24px;
+  border: 2px solid  #3498db;
+  text-align: center;
+  color: white;
+  background: none;
+  transition: 0.25s;
+  outline: none;
+}
+.login_box:focus
+{
+  width:75%;
+  border-color: #2ecc71;
+}
+.login
+{
+  width: 45%;
+  line-height: 2.5;
+  border-radius:50px;
+  border: 2px solid  #2ecc71
+
+}
+.login:hover
+{
+  background-color:  #2ecc71;
+}
+// #191919   #3498db   #2ecc71
