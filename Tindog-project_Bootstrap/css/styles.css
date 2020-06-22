@@ -1,0 +1,240 @@
+#title
+{
+  background-color: #ff4c68
+}
+.title
+{
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  margin-top: 100px;
+  padding-bottom: 100px ;
+  color: white;
+
+}
+.container
+{
+  padding: 3% 15% 7% 15%;
+}
+.title-img
+{
+  transform: rotate(25deg);
+  padding-left: 100px;
+  margin-top: 50px;
+  position: absolute;
+}
+.Tindog
+{
+  font-family: 'Noto Sans KR', sans-serif;
+  font-style: oblique;
+  color: white;
+  font-size: 3rem;
+  padding-left: 0;
+}
+
+
+#features
+{
+  background-color: white;
+  padding: 7% 15%;
+  position: relative;
+  z-index: 1
+
+}
+.pics
+{
+  color: #ef8172;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+.features-h3
+{
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+
+}
+.features-p
+{
+  color: #8f8f8f;
+  text-align: center;
+
+}
+.fa-5x:hover
+{
+  color: #ff4c68;
+}
+.container-feature
+{
+  padding: 5%;
+  width: 70%;
+
+}
+/*            testimonial                 */
+#testimonials
+{
+  background-color: #ef8172;
+  padding: 5% 15%;
+  text-align: center;
+}
+.testimonial-h2
+{
+  color: white;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 3rem;
+  line-height: 1.5
+}
+.testimonial-pic
+{
+  border-radius: 100%;
+  margin-top: 10px;
+  margin-right: 10px;
+  width:20%;
+}
+/*   Press       */
+#press
+{
+  background-color: #ef8172;
+  padding-bottom: 3%;
+  text-align: center;
+}
+.press-pic
+{
+  width: 15%;
+  margin: 10px;
+}
+#pricing
+{
+  padding: 2% 3%;
+}
+.img-pricing
+{
+  width: 40%;
+}
+.pricing-container
+{
+  font-family: 'Montserrat Bold',sans-sans-serif;
+  font-size: 2.75rem;
+  text-align: center;
+}
+.card
+{
+  text-align: center;
+}
+.header
+{
+  background-color:  #ff4c68;
+}
+.card-body-first
+{
+  color: white;
+  background-color:#ff4c68;
+  padding: 25px;
+  padding-bottom: 76px;
+}
+.card-body-first:hover
+{
+  color:  #ff4c68;
+  background-color: white;
+}
+.card-body
+{
+  color: white;
+  background-color:#ff4c68;
+}
+.card-body-middle
+{
+  color:  #ff4c68;
+  background-color: white;
+  padding: 25px;
+  padding-bottom: 76px;
+}
+.card-body-middle:hover
+{
+  color: white;
+  background-color:#ff4c68;
+}
+.card-body:hover
+{
+  color:  #ff4c68;
+  background-color: white;
+}
+.pricing-h3
+{
+  font-family: 'Roboto Slab', serif;
+  font-size: 2rem;
+  color:white;
+}
+.pricing-h2
+{
+font-family: 'Anton', sans-serif;
+font-size: 1.75rem;
+}
+.signup
+{
+  background-color: white ;
+  border-color:  white;
+  display: block;
+  color: #ff4c68 ;
+    font-family: 'Abril Fatface', cursive;
+}
+.signup:hover
+{
+  background-color: #ff4c68 ;
+  border-color:  #ff4c68;
+  display: block;
+  color: white ;
+  font-family: 'Abril Fatface', cursive;
+}
+.signup-mid
+{
+  background-color: #ff4c68 ;
+  border-color:  #ff4c68;
+  display: block;
+  color: white ;
+  font-family: 'Abril Fatface', cursive;
+}
+.signup-mid:hover
+{
+  background-color: white ;
+  border-color:white ;
+  display: block;
+  color: #ff4c68 ;
+  font-family: 'Abril Fatface', cursive;
+}
+#footer
+{
+  background-color: white;
+  text-align: center;
+
+}
+#cta
+{
+  background-color: #ff4c68;
+}
+.cta-h3
+{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  color: #fff;
+  line-height:1.5;
+
+}
+#cta
+{
+  padding: 7% 25%;
+  text-align: center;
+
+}
+.cta-button
+{
+  margin:10px;
+}
+.fab
+{
+  margin: 10px;
+}
+.fas
+{
+  margin: 10px;
+}
